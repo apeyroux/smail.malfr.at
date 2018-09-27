@@ -1,0 +1,7 @@
+celery
+click
+elasticsearch
+flask
+flask-restplus
+flask-mail
+redis
