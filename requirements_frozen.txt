@@ -3,7 +3,7 @@ aniso8601==3.0.2
 appdirs==1.4.3
 billiard==3.5.0.4
 blinker==1.4
-celery==4.2.1
+celery==5.2.2
 Click==7.0
 elasticsearch==6.3.1
 Flask==1.0.2
